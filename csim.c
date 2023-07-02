@@ -2,9 +2,8 @@
  * CPSC 4210
  *  - High Performance Parallel Computing
  *
- *    Name: Austin Kothig
- *      ID: 001182645
- *     Sem: Spring 2018
+ *    Name: Andres Nunez  ID: 10139424
+
  *
  * Purpose: Simulate the cache management using
  *          Least Resently Used policy
