@@ -1,7 +1,5 @@
 /*
- * CPSC 4210
- *  - High Performance Parallel Computing
- *
+
  *    Name: Andres Nunez  ID: 10139424
 
  *
